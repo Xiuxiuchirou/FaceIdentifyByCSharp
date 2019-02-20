@@ -1,0 +1,12 @@
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\CameraDemo.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\CameraDemo.pdb
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\AForge.Controls.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\AForge.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\AForge.Imaging.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\AForge.Video.DirectShow.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\bin\Debug\AForge.Video.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\obj\Debug\OperateCamera.Form1.resources
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\obj\Debug\CameraDemo.csproj.GenerateResource.Cache
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\obj\Debug\CameraDemo.csproj.CoreCompileInputs.cache
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\obj\Debug\CameraDemo.dll
+D:\我的文档\c#摄像头获取人脸\Camera_tool\CameraDemo\obj\Debug\CameraDemo.pdb
